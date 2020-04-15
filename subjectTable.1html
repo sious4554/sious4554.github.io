@@ -8,19 +8,19 @@
 <title>HTML5 시간표</title></head>
 <body>
 <table>
-<caption>&It;표1&gt; 시간표</caption>
+<caption>&lt;표1&gt; 시간표</caption>
 <thead>
  <tr><th>시간</th> <th>월</th> <th>화</th> <th>수</th> <th>목</th> <th>금</th></tr></thead>
 <tbody>
- <tr> <td>1교시</td> <td>오토마타와 응용</td> <td></td> <td>자료구조및실습</td> <td></td> <td></td> </tr>
- <tr> <td>2교시</td> <td>오토마타와 응용</td> <td></td> <td>자료구조및실습</td> <td>오토마타와 응용</td> <td></td> </tr>
- <tr> <td>3교시</td> <td></td> <td>자료구조및실습</td> <td></td> <td></td> <td></td> </tr>
- <tr> <td>4교시</td> <td></td> <td>자료구조및실습</td> <td></td> <td></td> <td></td> </tr>
- <tr> <td>5교시</td> <td></td> <td>디지털 논리회로</td> <td></td> <td>인터넷 응용</td> <td></td> </tr>
- <tr> <td>6교시</td> <td></td> <td></td> <td>C++프로그래밍</td> <td>인터넷 응용</td> <td></td> </tr>
- <tr> <td>7교시</td> <td></td> <td></td> <td>C++프로그래밍</td> <td></td> <td></td> </tr>
- <tr> <td>8교시</td> <td></td> <td></td> <td>C++프로그래밍</td> <td>캠퍼스 멘토링</td> <td></td> </tr>
- <tr> <td>9교시</td> <td></td> <td>인터넷 응용</td> <td>C++프로그래밍</td> <td></td> <td></td> </tr>
+ <tr> <td>1교시</td> <td rowspawn="2">오토마타와 응용</td> <td></td> <td rowspawn="2">자료구조및실습</td> <td></td> <td></td> </tr>
+ <tr> <td>2교시</td> <td></td> <td></td> <td></td> <td>오토마타와 응용</td> <td></td> </tr>
+ <tr> <td>3교시</td> <td></td> <tdrowspawn="2">자료구조및실습</td> <td></td> <td></td> <td></td> </tr>
+ <tr> <td>4교시</td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+ <tr> <td>5교시</td> <td></td> <td>디지털 논리회로</td> <td></td> <td rowspawn="2">인터넷 응용</td> <td></td> </tr>
+ <tr> <td>6교시</td> <td></td> <td></td> <tdrowspawn="4">C++프로그래밍</td> <td></td> <td></td> </tr>
+ <tr> <td>7교시</td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+ <tr> <td>8교시</td> <td></td> <td></td> <td></td> <td>캠퍼스 멘토링</td> <td></td> </tr>
+ <tr> <td>9교시</td> <td></td> <td>인터넷 응용</td> <td></td> <td></td> <td></td> </tr>
 </tbody>
 </table>
 </body>
